@@ -1,7 +1,6 @@
 {
     "name": "imperial-simp/academicmodel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "Imperial SIMP Academic Model",
     "license": "MIT",
     "type": "project",
     "require": {
